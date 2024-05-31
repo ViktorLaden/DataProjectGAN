@@ -11,8 +11,41 @@ Til dette projekt brugte vi Google Colab Pro+ som compute. Her kunne vi leje en 
 
 Projektet mundede ud i, at denne type netværk ikke er tilstrækkelig til at producere syntetiske billeder, der ligner ægte billeder. Herfra kan tandlægeinstituttet selv bygge videre på forskellige arkitekturer. Alt i alt vil vi beskrive denne “non-finding” som en succes.
 
-![512x512](https://github.com/ViktorLaden/DataProjectGAN/assets/159600496/38955210-a57a-4795-ac55-c174ab01a347)
-
+![512x512](https://github.com/ViktorLaden/DataProjectGAN/assets/159600496/3cac0192-a8f3-42c3-a05f-28576d262b13)
 
 ![image_67](https://github.com/ViktorLaden/DataProjectGAN/assets/159600496/ec8afdf6-3215-47f2-b609-8ca2f3a26cf3)
+
 ![image_50](https://github.com/ViktorLaden/DataProjectGAN/assets/159600496/4bdf2d86-55c0-41b8-a1a9-431d2c55bc78)
+
+
+## Results
+
+### Generated Images
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="https://github.com/ViktorLaden/DataProjectGAN/assets/159600496/3cac0192-a8f3-42c3-a05f-28576d262b13" alt="Generated Image 1" width="300"/>
+    <p>Figure 1: 512x512.</p>
+  </div>
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="https://github.com/ViktorLaden/DataProjectGAN/assets/159600496/ec8afdf6-3215-47f2-b609-8ca2f3a26cf3" alt="Generated Image 2" width="300"/>
+    <p>Figure 2: 508x287.</p>
+  </div>
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="https://github.com/ViktorLaden/DataProjectGAN/assets/159600496/4bdf2d86-55c0-41b8-a1a9-431d2c55bc78" alt="Generated Image 3" width="300"/>
+    <p>Figure 3: 256x256.</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
