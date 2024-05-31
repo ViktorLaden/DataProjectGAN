@@ -8,4 +8,4 @@ Heraf lavede vi forskellige generatorer og kritikere, hvilket skyldtes, at vores
 
 Til dette projekt brugte vi Google Colab Pro+ som compute. Her kunne vi leje en A100 med 40 GB RAM. Dette er et stort grafikkort, men vi blev stadig begrænset af RAM'en, da antallet af features kun var 128, hvilket ideelt set burde have været dobbelt så stort. 
 
-Projektet mundede ud i, at vi nu har konkluderet, at denne type netværk ikke er tilstrækkelig til at producere syntetiske billeder, der ligner ægte billeder. Herfra kan tandlægeinstituttet selv bygge videre på forskellige arkitekturer. Alt i alt vil vi beskrive denne “non-finding” som en succes.
+Projektet mundede ud i, at denne type netværk ikke er tilstrækkelig til at producere syntetiske billeder, der ligner ægte billeder. Herfra kan tandlægeinstituttet selv bygge videre på forskellige arkitekturer. Alt i alt vil vi beskrive denne “non-finding” som en succes.
