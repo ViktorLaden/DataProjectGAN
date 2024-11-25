@@ -48,6 +48,6 @@ Dataset we release:
 
 - High Res images (2322) - 1024x1024 - https://drive.google.com/drive/folders/1bj5iFoxGcWjnaSgPf82Hz1ifFIUYEjvL?usp=drive_link
 
-- Low Res images (2322) - 256x256 -  https://drive.google.com/drive/folders/1bj5iFoxGcWjnaSgPf82Hz1ifFIUYEjvL?usp=drive_link
+- Low Res images (2322) - 256x256 - https://drive.google.com/drive/folders/1Jaz67VPr-xqVLI3RQuzPKO-1c8I6g8Pq?usp=drive_link
 
 - Observations Generated Images (100) - 256x256 - https://drive.google.com/drive/folders/1ne5NbYbfbwigaKF_yj83_L2W5TbJaM-q?usp=drive_link
