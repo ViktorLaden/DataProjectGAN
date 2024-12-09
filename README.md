@@ -34,7 +34,6 @@ Projektet mundede ud i, at denne type netværk ikke er tilstrækkelig til at pro
 
 
 
-Results can be reproduced using the score sheet using this notebook - https://colab.research.google.com/drive/1Rz72XC767_jHZHcEu5sJKL6SLTg0JWfe#scrollTo=GElO4IfBsDjy
 
 You can also visit following notebooks with corresponding data to reproduce the FID and t-SNE plots
 
